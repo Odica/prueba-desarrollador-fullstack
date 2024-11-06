@@ -3,7 +3,7 @@
         'name' => 'claud/api',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'd93a1db6080ead22b44b333d228bd3e8937b0076',
+        'reference' => 'fcd73cd5f14ad8f9f5c45033dde20feeed43bc9d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'claud/api' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'd93a1db6080ead22b44b333d228bd3e8937b0076',
+            'reference' => 'fcd73cd5f14ad8f9f5c45033dde20feeed43bc9d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
