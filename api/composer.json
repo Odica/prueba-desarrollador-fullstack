@@ -1,0 +1,11 @@
+{
+    "name": "claud/api",
+    "authors": [
+        {
+            "name": "Claudia"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}

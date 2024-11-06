@@ -5,7 +5,7 @@ require_once __DIR__ . "/AuthController.php";
 
 class CategoryController {
     private $db;
-    private $auth;
+    public $auth;
 
     public function __construct() {
         $database = new Database();
