@@ -10,7 +10,7 @@ Editor de texto (VS Code, Sublime Text, etc.)
 Pasos para Configurar el Proyecto
 1. Clonar el Repositorio
 Primero, clona el repositorio en tu máquina local (si aún no lo has hecho):
-git clone https://github.com/tu-usuario/prueba-desarrollador-fullstack.git
+git clone https://github.com/Odica/prueba-desarrollador-fullstack.git
 cd prueba-desarrollador-fullstack
 
 Configurar la Base de Datos
